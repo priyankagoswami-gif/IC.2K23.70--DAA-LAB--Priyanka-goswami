@@ -28,7 +28,7 @@
 </pre>
 
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<p>Constraints are :</p>
 
 <ul>
 	<li><code>1 &lt;= people.length &lt;= 5 * 10<sup>4</sup></code></li>
